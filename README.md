@@ -7,12 +7,12 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
  - Youtube: [@lunoversisrobotics](https://youtube.com/@lunoversisrobotics).
  - Lunoversis Instagram: [@lunoversis](https://instagram.com/lunoversis).
 
-### Knowledge:
+## Knowledge:
 
 
 <div align="center">
 
-#### >> Languages:
+# >> Languages:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="40" alt="aarch64 logo"  />
   <img width="12" />
@@ -29,7 +29,7 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
 
-#### >> Tools and Frameworks:
+# >> Tools and Frameworks:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -53,7 +53,8 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
-
+## Projects:
+ - [turing.nxt](https://github.com/1jari/turingnxt) : An implementation of Alan Turing's machine concept using an Lego Mindstorms NXT robotics kit. Pretty nerdy stuff.
 ## Research:
  - [Understanding the behaviour of computers through an implementation of Turing Machine](https://periodicos.ufsm.br/cienciaenatura/issue/view/2843).
 
@@ -62,9 +63,7 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
 - [Bend](https://github.com/HigherOrderCO/Bend) - 'A massively parallel high level language'.
 - [FreePascal](https://github.com/fpc) - 'FreePascal compiler'.
 - [SecBSD](https://github.com/SecBSD) - 'An OpenBSD-based OS that focuses in Penetration Testing and Cyber Security tools'.
-- [PlataformIO](https://github.com/platformio/platformio-core) - "The embedded 'swiss army knife'".
+- [PlataformIO](https://github.com/platformio/platformio-core) - "The embedded developer 'swiss army knife'".
 -------------------------
 
-<div align="center">
--There is no dark side of the Moon, really. Matter of fact, it's all dark...
-</div>
+_There is no dark side of the Moon, really. Matter of fact, it's all dark..._
