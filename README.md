@@ -52,9 +52,6 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <br>
-  * I am also an Emacs user!
-  * I like using Mercurial/Hg in some projects.
-  * I use an Thinkpad T430 with NixOS
 </div>
 
 ## Projects:
@@ -68,6 +65,11 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
 - [FreePascal](https://github.com/fpc) - 'FreePascal compiler'.
 - [SecBSD](https://github.com/SecBSD) - 'An OpenBSD-based OS that focuses in Penetration Testing and Cyber Security tools'.
 - [PlataformIO](https://github.com/platformio/platformio-core) - "The embedded developer 'swiss army knife'".
--------------------------
+------
 
+* I am also an Emacs user!
+* I like using Mercurial/Hg in some projects.
+* I use an Thinkpad T430 with NixOS
+
+------------------------
 _There is no dark side of the Moon, really. Matter of fact, it's all dark..._
