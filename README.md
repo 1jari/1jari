@@ -51,6 +51,10 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="40" alt="processing logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <br>
+  * I am also an Emacs user!
+  * I like using Mercurial/Hg in some projects.
+  * I use an Thinkpad T430 with NixOS
 </div>
 
 ## Projects:
