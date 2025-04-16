@@ -1,7 +1,7 @@
 # Joao H. Jari // jaridotnxt
 
 Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://lunoversis.com). Reach me @:
- - Email: [jaridotnxt@hotmail.com](mailto:jaridotnxt@hotmail.com).
+ - Email: [jari_nxt@hotmail.com](mailto:jari_nxt@hotmail.com).
  - X / Twitter: [@1jari_](https://twitter.com/1jari_).
  - Youtube: [@lunoversisrobotics](https://youtube.com/@lunoversisrobotics).
  - Lunoversis Instagram: [@lunoversis](https://instagram.com/lunoversis).
