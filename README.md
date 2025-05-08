@@ -55,17 +55,12 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
 
 ## Projects:
  - [turing.nxt](https://github.com/1jari/turingnxt) : An implementation of Alan Turing's machine concept using an Lego Mindstorms NXT robotics kit. Pretty nerdy stuff.
+
 ## Research:
  - [Understanding the behaviour of computers through an implementation of Turing Machine](https://periodicos.ufsm.br/cienciaenatura/issue/view/2843).
  - [How **NASA** can explain the success of **Rust**](https://www.reddit.com/r/brdev/comments/1kcecce/como_a_nasa_pode_explicar_o_sucesso_do_rust/).
  - [Why OOP failed...](https://www.reddit.com/r/brdev/comments/1kdum48/porque_a_programa%C3%A7%C3%A3o_orientadaaobjeto_foi_um_erro/)
 
-## Check out too:
-- [RavynOS](https://github.com/ravynsoft/ravynos/releases) - 'A FreeBSD-based OS that aims to provide source and binary compatibility with Apple MacOS'.
-- [Bend](https://github.com/HigherOrderCO/Bend) - 'A massively parallel high level language'.
-- [FreePascal](https://github.com/fpc) - 'FreePascal compiler'.
-- [SecBSD](https://github.com/SecBSD) - 'An OpenBSD-based OS that focuses in Penetration Testing and Cyber Security tools'.
-- [PlataformIO](https://github.com/platformio/platformio-core) - "The embedded developer 'swiss army knife'".
 ------
 
 * I am also an Emacs user!
