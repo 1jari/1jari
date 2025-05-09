@@ -56,8 +56,10 @@ Hello, human! I'm a Roboticist and founder of [Lunoversis Robotics](https://luno
 ## Projects:
  - [turing.nxt](https://github.com/1jari/turingnxt) : An implementation of Alan Turing's machine concept using an Lego Mindstorms NXT robotics kit. Pretty nerdy stuff.
 
-## Research:
+## Papers:
  - [Understanding the behaviour of computers through an implementation of Turing Machine](https://periodicos.ufsm.br/cienciaenatura/issue/view/2843).
+
+## Research
  - [How **NASA** can explain the success of **Rust**](https://www.reddit.com/r/brdev/comments/1kcecce/como_a_nasa_pode_explicar_o_sucesso_do_rust/).
  - [Why OOP failed...](https://www.reddit.com/r/brdev/comments/1kdum48/porque_a_programa%C3%A7%C3%A3o_orientadaaobjeto_foi_um_erro/)
 
