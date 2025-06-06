@@ -1,5 +1,5 @@
 # Jari
-**I am Jari **(/ˈjɑri/)**, a catholic guy who lives in Rio Grande do Sul. I work on Robotics professionally and often as a hobby. My work is usually low level -- **Compilers**, **Runtimes**, **or other systems of some sort**.
+**I am Jari _(/ˈjɑri/)_**, a catholic guy who lives in Rio Grande do Sul. I work on Robotics professionally and often as a hobby. My work is usually low level -- **Compilers**, **Runtimes**, **or other systems of some sort**.
 
 ## Projects:
 * [turing.nxt](github.com/1jari/turing.nxt) - An Lego MINDSTORMS implementation of the Turing Machine.
