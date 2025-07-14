@@ -1,21 +1,24 @@
 # Jari
-**I am Jari _(/ˈjɑri/)_**, a catholic guy who lives in Rio Grande do Sul. I work on Robotics professionally and often as a hobby. My work is usually low level -- **Compilers**, **Runtimes**, **or other systems of some sort**.
+**I am Jari _(/ˈjɑri/)_**, an gaucho metalhead. I work on Robotics professionally and often as a hobby. My work is usually low level -- **Compilers**, **Runtimes**, **or other systems of some sort**.
 
 ## Projects:
 * [turing.nxt](github.com/1jari/turing.nxt) - An Lego MINDSTORMS implementation of the Turing Machine.
 
 ## Reasearch:
 * [Understanding the behaviour of computers through an implementation of Turing Machine](https://periodicos.ufsm.br/cienciaenatura/issue/view/2843)
-* [How **NASA** can explain the success of Rust](https://www.reddit.com/r/brdev/comments/1kcecce/como_a_nasa_pode_explicar_o_sucesso_do_rust/)
-* [Why OOP Failed](https://www.reddit.com/r/brdev/comments/1kdum48/porque_a_programa%C3%A7%C3%A3o_orientadaaobjeto_foi_um_erro/)
+
+## Articles:
+* ["How **NASA** can explain the success of Rust"](https://www.reddit.com/r/brdev/comments/1kcecce/como_a_nasa_pode_explicar_o_sucesso_do_rust/)
+* ["Why OOP Failed"](https://www.reddit.com/r/brdev/comments/1kdum48/porque_a_programa%C3%A7%C3%A3o_orientadaaobjeto_foi_um_erro/)
 
 ## What software do you use?
 ### Tools
-* Editors ( [Emacs](http://www.gnu.org/software/emacs/) )
-* Compilers ( [Freepascal](freepascal.org), [rustc](rust-lang.org), [ocamlc](ocaml.org) )
+* Editors ( [Emacs](http://www.gnu.org/software/emacs/) [ZED](https://zed.dev) )
+* Build Managers ( [Premake5](https://premake.github.io/) )
+* Compilers ( [Freepascal](https://freepascal.org), [rustc](https://rust-lang.org), [ocamlc](https://ocaml.org) )
 * Debuggers ( [LLDB](https://lldb.llvm.org/), [GDB](http://www.gnu.org/software/gdb/) )
 * Profilers ( [heaptrack](https://github.com/KDE/heaptrack) )
-* Scripting ( [make](http://www.gnu.org/software/make/manual/make.html), [powershell](https://github.com/PowerShell/PowerShell), [Python](python.org) )
+* Scripting ( [make](http://www.gnu.org/software/make/manual/make.html), [powershell](https://github.com/PowerShell/PowerShell), [Python](https://python.org) )
 * Diagramming and notes ( [AFFiNE](https://affine.pro/download) )
 
 ### Operating Systems:
